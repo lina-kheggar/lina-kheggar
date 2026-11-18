@@ -1,4 +1,5 @@
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+
+  <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +11,7 @@
 
 ###
 
-<p data-importer="text" align="left">👩‍💻 Computer Science Student.<br>🌱 Currently exploring Web Development and Artificial Intelligence<br>💻 Passionate about learning new technologies and building projects.<br>🎯 Goals: <br>- Improve my programming skills.<br>- Create impactful projects.<br>- Keep learning and growing as a developer.</p>
+<p data-importer="text" align="left">👩‍💻 Computer Science Student.<br>🌱 Currently exploring Web Development and Artificial Intelligence.<br>💻 Passionate about learning new technologies and building projects.<br>🎯 Goals: <br>- Improve my programming skills.<br>- Create impactful projects.<br>- Keep learning and growing as a developer.</p>
 
 ###
 
@@ -40,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
